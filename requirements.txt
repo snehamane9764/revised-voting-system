@@ -1,0 +1,6 @@
+# The core demo uses only the Python standard library.
+#
+# Optional packages for webcam/camera extensions:
+# opencv-python>=4.9
+# mediapipe>=0.10
+# numpy>=1.26
